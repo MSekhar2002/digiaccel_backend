@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager API - digiaccel_backend_Assessment
 
 A RESTful API built with Express.js and MongoDB for managing tasks. This API serves as the backend for the Task Manager application, providing endpoints for task creation, retrieval, updates, deletion, and search functionality.
 
@@ -27,7 +27,7 @@ git clone https://github.com/MSekhar2002/digiaccel_backend.git
 
 2. Navigate to the project directory
 ```bash
-cd task-manager-api
+cd digiaccel_backend
 ```
 
 3. Install dependencies
