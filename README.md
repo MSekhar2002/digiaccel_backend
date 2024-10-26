@@ -22,7 +22,7 @@ A RESTful API built with Express.js and MongoDB for managing tasks. This API ser
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/yourusername/task-manager-api.git](https://github.com/MSekhar2002/digiaccel_backend.git)
+git clone https://github.com/MSekhar2002/digiaccel_backend.git
 ```
 
 2. Navigate to the project directory
